@@ -1,0 +1,1 @@
+INSERT INTO Advanced_data VALUES (Null,'C:/Users/asus/Downloads/icons8-users-64.png','C:/Users/asus/Downloads/icons8-options-64.png','08/12/2021',98)

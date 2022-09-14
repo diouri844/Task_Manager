@@ -1,0 +1,1 @@
+DELETE FROM Data WHERE FolderId=98

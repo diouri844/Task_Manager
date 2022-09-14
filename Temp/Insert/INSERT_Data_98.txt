@@ -1,0 +1,1 @@
+INSERT INTO Data VALUES (98,'Oui','Oui','07/12/2021','C:/Users/asus/Downloads/algoINF102_2007.pdf','C:/Users/asus/Downloads/2.Plaquette Mamis formation numérique.pdf','C:/Users/asus/Downloads/Bootstrap-tutorial.pdf')

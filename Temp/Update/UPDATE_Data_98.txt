@@ -1,0 +1,1 @@
+UPDATE Data SET Avance='Non', Engagement='Non' WHERE FolderId=98

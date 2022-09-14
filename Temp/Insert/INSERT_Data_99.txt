@@ -1,0 +1,1 @@
+INSERT INTO Data VALUES (99,'Oui','Oui','10/12/2021','C:/Users/asus/Downloads/Batch_tutorial.pdf','C:/Users/asus/Downloads/C1-2_APIStructuresAlgorithmiquesdeBase.pdf','C:/Users/asus/Downloads/reportlab_toolkit_tutorial.pdf')

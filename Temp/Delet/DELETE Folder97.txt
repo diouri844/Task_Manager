@@ -1,0 +1,1 @@
+DELETE FROM Folder WHERE Id=97

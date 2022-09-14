@@ -1,0 +1,1 @@
+INSERT INTO Advanced_data VALUES (Null,'C:/Users/asus/Pictures/Images Windows à la une/RWtnrk_1920x1080.jpg','C:/Users/asus/Documents/programation_avancé/Chap2_Pillet_analysé_processus.pdf','09/12/2021',95)

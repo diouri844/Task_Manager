@@ -1,0 +1,1 @@
+INSERT INTO Folder VALUES (Null,'teste dossier2','22','CD751322','Fes','Homme','Bac+5','Oui','O1','O2','O3',' البحرين','قطر','الكويت','0606798014','0711431429')

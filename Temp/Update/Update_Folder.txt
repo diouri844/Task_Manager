@@ -1,0 +1,1 @@
+UPDATE Folder SET name='chaimae el Bakali', Age='23', Cin='cd172248',Job1='reception',Job2='menage',Job3='reception',Phone_Number1='0619461428',Phone_Number2='0707112214' WHERE Id=91
